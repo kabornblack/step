@@ -22,7 +22,7 @@ Displaying messages step by step.
 Navigating between messages using "Previous" and "Next" buttons.
 -
 A close button to toggle the visibility of the guide.
-
+-
 ---
 
 # Usage
