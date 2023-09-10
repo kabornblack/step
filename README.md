@@ -38,15 +38,15 @@ The application is designed to provide a simple and interactive way for users to
 ## We welcome contributions to this project! If you'd like to contribute, please follow these steps:
 
 Fork the repository to your own GitHub account.
--
+
 Create a new branch with a descriptive name for your feature or bug fix.
--
+
 Make your changes and test them thoroughly.
--
+
 Commit your changes with clear and concise commit messages.
--
+
 Push your changes to your forked repository.
--
+
 Create a pull request to the main repository's main branch.
--
+
 Please ensure your code adheres to the project's coding standards, and your contributions are well-documented.
