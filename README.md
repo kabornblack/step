@@ -4,7 +4,7 @@ Welcome to the README for the React Step project! This simple React application 
 ---
 
 ## Table of Contents
--
+
 Project Overview
 -
 Usage
@@ -16,7 +16,7 @@ Project Overview
 The React Step is a React-based web application designed to guide users through a series of messages. Each step represents a message, and users can navigate forward and backward through the steps using the "Next" and "Previous" buttons. The messages are predefined in the messages array within the App.js file.
 
 ## The main features of this application include:
--
+
 Displaying messages step by step.
 -
 Navigating between messages using "Previous" and "Next" buttons.
